@@ -6,7 +6,7 @@ The robot can only move either down or right at any point in time. The robot is 
 How many possible unique paths are there?
 
 __Example 1:__
-![Example 1](https://github.com/BASARANOMO/leetcode-python/blob/main/solutions\Medium\62. Unique Paths/robot_maze.png?raw=true)
+![Example 1](https://github.com/BASARANOMO/leetcode-python/blob/main/solutions/Medium/62.%20Unique%20Paths/robot_maze.png)
 ```
 Input: m = 3, n = 7
 Output: 28
