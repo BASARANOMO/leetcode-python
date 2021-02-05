@@ -39,3 +39,6 @@ Output: 6
 __Constraints:__
 - ```1 <= m, n <= 100```
 - It's guaranteed that the answer will be less than or equal to ```2 * 109```.
+
+# Solution
+Dynamic programming
