@@ -13,7 +13,7 @@ class Solution:
 
         return 1
 
-    # DP
+    # DP space O(m * n)
     def uniquePaths_DP(self, m: int, n: int) -> int:
         if (m == 0) or (n == 0):
             return 0
@@ -23,6 +23,7 @@ class Solution:
                 dp_matrix[i][j] = dp_matrix[i-1][j] + dp_matrix[i][j-1]
         return dp_matrix[-1][-1]
 
+    # DP space O(n)
     def uniquePaths_DP_opt(self, m: int, n: int) -> int:
         if (m == 0) or (n == 0):
             return 0
