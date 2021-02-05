@@ -41,4 +41,5 @@ __Constraints:__
 - It's guaranteed that the answer will be less than or equal to ```2 * 109```.
 
 # Solution
-Dynamic programming
+- Mathematical solution
+- Dynamic programming
