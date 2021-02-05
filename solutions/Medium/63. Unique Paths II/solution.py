@@ -19,6 +19,7 @@ class Solution:
                     dp_matrix[i][j] = dp_matrix[i-1][j] + dp_matrix[i][j-1]
         return dp_matrix[-1][-1]
 
+    # in place
     def uniquePathsWithObstacles_opt(self, obstacleGrid: List[List[int]]) -> int:
         if not obstacleGrid or obstacleGrid[0][0] == 1:
             return 0
