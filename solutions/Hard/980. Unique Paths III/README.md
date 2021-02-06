@@ -41,3 +41,7 @@ __Notes:__
 ```
 1 <= grid.length * grid[0].length <= 20
 ```
+
+## Solution
+- Backtracking
+- DFS
