@@ -13,8 +13,8 @@ __Write a function to determine the knight's minimum initial health so that he i
 
 For example, given the dungeon below, the initial health of the knight must be at least ```7``` if he follows the optimal path ```RIGHT-> RIGHT -> DOWN -> DOWN```.
 
-|||
-|-|-|
-|-2 (K)	| -3  |	3
-|-5	    | -10 | 1
-|10     | 30  |-5 (P)
+||||
+|-|-|-|
+|-2 (K)	| -3  |	3|
+|-5	    | -10 | 1|
+|10     | 30  |-5 (P)|
