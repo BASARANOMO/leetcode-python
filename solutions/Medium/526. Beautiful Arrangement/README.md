@@ -30,3 +30,6 @@ __Constraints:__
 
 ## Solution
 Backtracking
+
+## Notes
+Brute force (consider every permutation) is generally not acceptable (time limit exceeded)
