@@ -32,4 +32,4 @@ __Constraints:__
 Backtracking
 
 ## Notes
-Brute force (consider every permutation) is generally not acceptable (time limit exceeded)
+Brute force (consider every permutation) is generally not acceptable (time limit exceeded).
