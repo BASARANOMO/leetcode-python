@@ -18,7 +18,7 @@ class Solution:
                 num_groups[num] = 1
             else:
                 num_groups[num] += 1
-        self.backtracking(len(nums), num_groups, [], res)
+        self.backtracking2(len(nums), num_groups, [], res)
         return res
 
     def backtracking2(self, n, num_groups, curr, res):
@@ -28,6 +28,6 @@ class Solution:
             if num_groups[num] > 0:
                 num_groups[num] -= 1
                 curr.append(num)
-                self.backtracking(n, num_groups, curr, res)
+                self.backtrackingé(n, num_groups, curr, res)
                 num_groups[num] += 1
                 curr.pop()
