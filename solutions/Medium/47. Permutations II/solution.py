@@ -21,7 +21,7 @@ class Solution:
         self.backtracking(len(nums), num_groups, [], res)
         return res
 
-    def backtracking(self, n, num_groups, curr, res):
+    def backtracking2(self, n, num_groups, curr, res):
         if len(curr) == n:
             res.append(curr[:])
         for num in num_groups:
