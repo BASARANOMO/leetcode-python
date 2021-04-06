@@ -23,10 +23,10 @@ class Solution:
         grid[i][j] = -1
         target -= 1
         res = 0
-        res += self.dfs(grid, target, i+1, j)
-        res += self.dfs(grid, target, i, j+1)
-        res += self.dfs(grid, target, i-1, j)
-        res += self.dfs(grid, target, i, j-1)
-        target += 1 # reset current state
+        res += self.dfs(grid, target, i + 1, j)
+        res += self.dfs(grid, target, i, j + 1)
+        res += self.dfs(grid, target, i - 1, j)
+        res += self.dfs(grid, target, i, j - 1)
+        target += 1  # reset current state
         grid[i][j] = 0
         return res

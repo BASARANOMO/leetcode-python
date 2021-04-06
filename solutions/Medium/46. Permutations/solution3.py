@@ -8,4 +8,4 @@ class Solution:
         if not nums:
             res.append(curr)
         for i in range(len(nums)):
-            self.backtracking(nums[:i]+nums[i+1:], curr+[nums[i]], res)
+            self.backtracking(nums[:i] + nums[i + 1 :], curr + [nums[i]], res)

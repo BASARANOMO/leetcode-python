@@ -1,8 +1,9 @@
 from threading import Lock
 
+
 class Foo:
     def __init__(self):
-        self.locks = (Lock(),Lock())
+        self.locks = (Lock(), Lock())
         self.locks[0].acquire()
         self.locks[1].acquire()
 
@@ -14,7 +15,6 @@ class Foo:
         with self.locks[0]:
             printSecond()
             self.locks[1].release()
-
 
     def third(self, printThird):
         with self.locks[1]:
