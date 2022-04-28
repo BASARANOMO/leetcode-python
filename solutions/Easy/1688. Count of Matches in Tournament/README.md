@@ -2,11 +2,12 @@
 
 [LeetCode Page](https://leetcode.com/problems/count-of-matches-in-tournament/)
 
-## Solutions
-### Naive solution
+## Solution1
+
 return n-1
 
-### Stupid solution
+## Solution2
+
 ```
 even: increment n / 2
 odd: increment (n - 1) / 2 + 1

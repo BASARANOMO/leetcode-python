@@ -1,4 +1,5 @@
 # 980. Unique Paths III
+
 On a 2-dimensional ```grid```, there are 4 types of squares:
 
 - ```1``` represents the starting square.  There is exactly one starting square.
@@ -9,6 +10,7 @@ On a 2-dimensional ```grid```, there are 4 types of squares:
 Return the number of 4-directional walks from the starting square to the ending square, that __walk over every non-obstacle square exactly once__.
 
 __Example 1:__
+
 ```
 Input: [[1,0,0,0],[0,0,0,0],[0,0,2,-1]]
 Output: 2
@@ -18,6 +20,7 @@ Explanation: We have the following two paths:
 ```
 
 __Example 2:__
+
 ```
 Input: [[1,0,0,0],[0,0,0,0],[0,0,0,2]]
 Output: 4
@@ -29,6 +32,7 @@ Explanation: We have the following four paths:
 ```
 
 __Example 3:__
+
 ```
 Input: [[0,1],[2,0]]
 Output: 0
@@ -38,10 +42,12 @@ Note that the starting and ending square can be anywhere in the grid.
 ```
 
 __Notes:__
+
 ```
 1 <= grid.length * grid[0].length <= 20
 ```
 
 ## Solution
+
 - Backtracking
 - DFS
