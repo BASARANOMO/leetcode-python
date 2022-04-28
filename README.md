@@ -16,3 +16,7 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [62. Unique Paths](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/62.%20Unique%20Paths)
 
 [63. Unique Paths II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/63.%20Unique%20Paths%20II)
+
+### Two pointers
+
+[905. Sort Array By Parity](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/905.%20Sort%20Array%20By%20Parity)
