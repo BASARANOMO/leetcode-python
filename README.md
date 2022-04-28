@@ -11,6 +11,14 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [526. Beautiful Arrangement](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/526.%20Beautiful%20Arrangement)
 
+### BFS
+
+[417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
+
+### DFS
+
+[417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
+
 ### Dynamic programming
 
 [62. Unique Paths](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/62.%20Unique%20Paths)
