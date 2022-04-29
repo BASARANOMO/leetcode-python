@@ -19,11 +19,17 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
+[427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
+
 ### Dynamic programming
 
 [62. Unique Paths](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/62.%20Unique%20Paths)
 
 [63. Unique Paths II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/63.%20Unique%20Paths%20II)
+
+### Prefix sum
+
+[427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
 
 ### Two pointers
 
