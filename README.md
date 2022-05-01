@@ -39,6 +39,17 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [908. Smallest Range I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/908.%20Smallest%20Range%20I)
 
+### Tree
+
+#### Binary search tree
+
+[1305. All Elements in Two Binary Search Trees](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees)
+
+
+#### Inorder traversal
+
+[1305. All Elements in Two Binary Search Trees](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees)
+
 ### Two pointers
 
 [905. Sort Array By Parity](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/905.%20Sort%20Array%20By%20Parity)
