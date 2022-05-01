@@ -31,6 +31,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
 
+### Simulation
+
+[908. Smallest Range I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/908.%20Smallest%20Range%20I)
+
 ### Two pointers
 
 [905. Sort Array By Parity](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/905.%20Sort%20Array%20By%20Parity)
