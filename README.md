@@ -27,6 +27,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [63. Unique Paths II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/63.%20Unique%20Paths%20II)
 
+### Greedy
+
+[910. Smallest Range II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/910.%20Smallest%20Range%20II)
+
 ### Prefix sum
 
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
