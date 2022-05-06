@@ -35,6 +35,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
 
+### Queue
+
+[933. Number of Recent Calls](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/933.%20Number%20of%20Recent%20Calls)
+
 ### Simulation
 
 [908. Smallest Range I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/908.%20Smallest%20Range%20I)
