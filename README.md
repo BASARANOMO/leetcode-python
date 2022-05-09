@@ -15,6 +15,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
+[433. Minimum Genetic Mutation](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/433.%20Minimum%20Genetic%20Mutation)
+
 ### DFS
 
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
