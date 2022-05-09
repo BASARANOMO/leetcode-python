@@ -31,6 +31,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [910. Smallest Range II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/910.%20Smallest%20Range%20II)
 
+[942. DI String Match](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/942.%20DI%20String%20Match)
+
 ### Prefix sum
 
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
@@ -65,3 +67,5 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Two pointers
 
 [905. Sort Array By Parity](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/905.%20Sort%20Array%20By%20Parity)
+
+[942. DI String Match](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/942.%20DI%20String%20Match)
