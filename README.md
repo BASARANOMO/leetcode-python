@@ -47,6 +47,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [908. Smallest Range I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/908.%20Smallest%20Range%20I)
 
+[1823. Find the Winner of the Circular Game](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)
+
 ### Sort
 
 [937. Reorder Data in Log Files](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/937.%20Reorder%20Data%20in%20Log%20Files)
