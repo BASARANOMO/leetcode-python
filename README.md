@@ -53,6 +53,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [937. Reorder Data in Log Files](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/937.%20Reorder%20Data%20in%20Log%20Files)
 
+[1051. Height Checker](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1051.%20Height%20Checker)
+
 ### Stack
 
 [591. Tag Validator](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/591.%20Tag%20Validator)
