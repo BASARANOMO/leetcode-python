@@ -29,6 +29,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [63. Unique Paths II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/63.%20Unique%20Paths%20II)
 
+[730. Count Different Palindromic Subsequences](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/730.%20Count%20Different%20Palindromic%20Subsequences)
+
 [926. Flip String to Monotone Increasing](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/926.%20Flip%20String%20to%20Monotone%20Increasing)
 
 ### Greedy
