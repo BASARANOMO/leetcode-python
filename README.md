@@ -93,3 +93,5 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [905. Sort Array By Parity](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/905.%20Sort%20Array%20By%20Parity)
 
 [942. DI String Match](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/942.%20DI%20String%20Match)
+
+[1089. Duplicate Zeros](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1089.%20Duplicate%20Zeros)
