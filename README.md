@@ -73,6 +73,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [591. Tag Validator](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/591.%20Tag%20Validator)
 
+[1089. Duplicate Zeros](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1089.%20Duplicate%20Zeros)
+
 ### Traversal
 
 [591. Tag Validator](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/591.%20Tag%20Validator)

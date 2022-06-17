@@ -1,6 +1,14 @@
 # 1089. Duplicate Zeros
 
-## Solution
+## Solution1
+
+Stack
+
+Time complexity: `O(n)`
+
+Space complexity: `O(n)`
+
+## Solution2
 
 Two pointers
 
