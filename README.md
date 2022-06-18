@@ -39,6 +39,12 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [942. DI String Match](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/942.%20DI%20String%20Match)
 
+### Hash table
+
+[532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
+
+[890. Find and Replace Pattern](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/890.%20Find%20and%20Replace%20Pattern)
+
 ### Prefix sum
 
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
@@ -48,10 +54,6 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Queue
 
 [933. Number of Recent Calls](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/933.%20Number%20of%20Recent%20Calls)
-
-### Hash table
-
-[890. Find and Replace Pattern](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/890.%20Find%20and%20Replace%20Pattern)
 
 ### Simulation
 
@@ -64,6 +66,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [1823. Find the Winner of the Circular Game](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)
 
 ### Sort
+
+[532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
 
 [937. Reorder Data in Log Files](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/937.%20Reorder%20Data%20in%20Log%20Files)
 
@@ -91,6 +95,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [1305. All Elements in Two Binary Search Trees](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees)
 
 ### Two pointers
+
+[532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
 
 [708. Insert into a Sorted Circular Linked List](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/708.%20Insert%20into%20a%20Sorted%20Circular%20Linked%20List)
 
