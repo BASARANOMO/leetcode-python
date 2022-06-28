@@ -37,6 +37,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Greedy
 
+[280. Wiggle Sort](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/280.%20Wiggle%20Sort)
+
 [910. Smallest Range II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/910.%20Smallest%20Range%20II)
 
 [942. DI String Match](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/942.%20DI%20String%20Match)
@@ -70,6 +72,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [1823. Find the Winner of the Circular Game](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)
 
 ### Sort
+
+[280. Wiggle Sort](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/280.%20Wiggle%20Sort)
 
 [532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
 
