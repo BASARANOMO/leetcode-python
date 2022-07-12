@@ -112,6 +112,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [208. Implement Trie (Prefix Tree)](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/208.%20Implement%20Trie%20(Prefix%20Tree))
 
+[1804. Implement Trie II (Prefix Tree)](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1804.%20Implement%20Trie%20II%20(Prefix%20Tree))
+
 ### Two pointers
 
 [532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
