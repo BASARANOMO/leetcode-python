@@ -35,6 +35,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [926. Flip String to Monotone Increasing](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/926.%20Flip%20String%20to%20Monotone%20Increasing)
 
+### Enumeration
+
+[676. Implement Magic Dictionary](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/676.%20Implement%20Magic%20Dictionary)
+
 ### Greedy
 
 [280. Wiggle Sort](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/280.%20Wiggle%20Sort)
@@ -103,6 +107,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 #### Inorder traversal
 
 [1305. All Elements in Two Binary Search Trees](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees)
+
+### Trie
+
+[208. Implement Trie (Prefix Tree)](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/208.%20Implement%20Trie%20(Prefix%20Tree))
 
 ### Two pointers
 
