@@ -112,6 +112,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [208. Implement Trie (Prefix Tree)](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/208.%20Implement%20Trie%20(Prefix%20Tree))
 
+[676. Implement Magic Dictionary](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/676.%20Implement%20Magic%20Dictionary)
+
 [1804. Implement Trie II (Prefix Tree)](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1804.%20Implement%20Trie%20II%20(Prefix%20Tree))
 
 ### Two pointers
