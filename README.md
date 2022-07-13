@@ -33,6 +33,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [730. Count Different Palindromic Subsequences](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/730.%20Count%20Different%20Palindromic%20Subsequences)
 
+[873. Length of Longest Fibonacci Subsequence](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/873.%20Length%20of%20Longest%20Fibonacci%20Subsequence)
+
 [926. Flip String to Monotone Increasing](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/926.%20Flip%20String%20to%20Monotone%20Increasing)
 
 ### Enumeration
