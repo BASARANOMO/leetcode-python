@@ -27,12 +27,14 @@ The total number of cherries picked up is 5, and this is the maximum possible.
 ```
 
 __Example 2:__
+
 ```
 Input: grid = [[1,1,-1],[1,-1,1],[-1,1,1]]
 Output: 0
 ```
 
 __Constraints:__
+
 ```
 n == grid.length
 n == grid[i].length
@@ -42,5 +44,10 @@ grid[0][0] != -1
 grid[n - 1][n - 1] != -1
 ```
 
-## Solution
+## Solution1
+
 Dynamic programming
+
+## Solution2
+
+DP
