@@ -4,7 +4,7 @@ class Solution:
         indices = {x: i for i, x in enumerate(arr)}
         ans, n = 0, len(arr)
         dp = [[0] * n for _ in range(n)]
-        for i, x in enumerate(arr):
+        for i, x in enumerate(arr): # 以j, i为终点的子序列长度比以k, j为终点的子序列长1
             for j in range(i):
                 if arr[j] * 2 <= x:
                     continue
