@@ -120,6 +120,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [676. Implement Magic Dictionary](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/676.%20Implement%20Magic%20Dictionary)
 
+[745. Prefix and Suffix Search](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/745.%20Prefix%20and%20Suffix%20Search)
+
 [1804. Implement Trie II (Prefix Tree)](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1804.%20Implement%20Trie%20II%20(Prefix%20Tree))
 
 ### Two pointers
