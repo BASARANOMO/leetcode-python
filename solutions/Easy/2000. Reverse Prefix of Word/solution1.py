@@ -9,7 +9,7 @@ class Solution:
                 res = []
                 while stk:
                     res.append(stk.pop())
-                res = ''.join(res) + word[idx + 1:]
+                res = "".join(res) + word[idx + 1 :]
                 break
         if if_found:
             return res

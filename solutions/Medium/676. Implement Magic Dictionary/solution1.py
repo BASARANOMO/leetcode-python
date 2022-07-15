@@ -1,5 +1,4 @@
 class MagicDictionary:
-
     def __init__(self):
         self.words = list()
 
@@ -18,9 +17,8 @@ class MagicDictionary:
                     break
             if diff == 1:
                 return True
-        
-        return False
 
+        return False
 
 
 # Your MagicDictionary object will be instantiated and called as such:

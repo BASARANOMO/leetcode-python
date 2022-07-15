@@ -2,10 +2,10 @@ class Solution:
     def countPalindromicSubsequences(self, s: str) -> int:
         MOD = 10 ** 9 + 7
         n = len(s)
-        dp = [[[0] * n for _ in range(n)] for _ in range(4)] # a, b, c, d
+        dp = [[[0] * n for _ in range(n)] for _ in range(4)]  # a, b, c, d
         for i, c in enumerate(s):
-            dp[ord(c) - ord('a')][i][i] = 1
-        
+            dp[ord(c) - ord("a")][i][i] = 1
+
         for subSize in range(2, n + 1):
             for j in range(subSize - 1, n):
                 i = j - subSize + 1
@@ -18,5 +18,5 @@ class Solution:
                         dp[k][i][j] = dp[k][i + 1][j]
                     else:
                         dp[k][i][j] = dp[k][i + 1][j - 1]
-        
+
         return sum(d[0][n - 1] for d in dp) % MOD

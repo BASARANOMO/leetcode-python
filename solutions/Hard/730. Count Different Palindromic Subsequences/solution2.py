@@ -14,20 +14,23 @@ class Solution:
         for i in range(n):
             for c in range(4):
                 pre[i][c] = pos[c]
-            pos[ord(s[i]) - ord('a')] = i
+            pos[ord(s[i]) - ord("a")] = i
 
         pos[0] = pos[1] = pos[2] = pos[3] = n
 
         for i in range(n - 1, -1, -1):
             for c in range(4):
                 next[i][c] = pos[c]
-            pos[ord(s[i]) - ord('a')] = i
+            pos[ord(s[i]) - ord("a")] = i
 
         for sz in range(2, n + 1):
             for j in range(sz - 1, n):
                 i = j - sz + 1
                 if s[i] == s[j]:
-                    low, high = next[i][ord(s[i]) - ord('a')], pre[j][ord(s[i]) - ord('a')]
+                    low, high = (
+                        next[i][ord(s[i]) - ord("a")],
+                        pre[j][ord(s[i]) - ord("a")],
+                    )
                     if low > high:
                         dp[i][j] = (2 + dp[i + 1][j - 1] * 2) % MOD
                     elif low == high:

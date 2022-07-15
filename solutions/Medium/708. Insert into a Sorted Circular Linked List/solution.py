@@ -6,8 +6,9 @@ class Node:
         self.next = next
 """
 
+
 class Solution:
-    def insert(self, head: 'Optional[Node]', insertVal: int) -> 'Node':
+    def insert(self, head: "Optional[Node]", insertVal: int) -> "Node":
         node = Node(insertVal)
         if head is None:
             node.next = node

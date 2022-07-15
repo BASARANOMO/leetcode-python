@@ -1,5 +1,4 @@
 class Trie:
-
     def __init__(self):
         self.is_finished = False
         self.children = [None] * 26
@@ -28,7 +27,6 @@ class Trie:
 
     def startsWith(self, prefix: str) -> bool:
         return self.searchPrefix(prefix) is not None
-
 
 
 # Your Trie object will be instantiated and called as such:

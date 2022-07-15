@@ -8,5 +8,5 @@ class Solution:
                 elif mp[x] != y:
                     return False
             return True
-        
+
         return [word for word in words if match(word, pattern) and match(pattern, word)]

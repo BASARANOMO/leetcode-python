@@ -10,5 +10,5 @@ class Solution:
                 if heights[idx] != i:
                     ans += 1
                 idx += 1
-        
+
         return ans

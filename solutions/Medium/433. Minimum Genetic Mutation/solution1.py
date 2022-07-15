@@ -11,7 +11,7 @@ class Solution:
             for i, x in enumerate(cur):
                 for y in "ACGT":
                     if y != x:
-                        nxt = cur[:i] + y + cur[i + 1:]
+                        nxt = cur[:i] + y + cur[i + 1 :]
                         if nxt in bank:
                             if nxt == end:
                                 return step + 1

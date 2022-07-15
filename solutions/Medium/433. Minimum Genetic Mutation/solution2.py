@@ -2,10 +2,10 @@ class Solution:
     def minMutation(self, start: str, end: str, bank: List[str]) -> int:
         if start == end:
             return 0
-        
+
         def diffOne(s: str, t: str) -> bool:
             return sum(x != y for x, y in zip(s, t)) == 1
-        
+
         m = len(bank)
         adj = [[] for _ in range(m)]
         end_idx = -1
@@ -18,7 +18,7 @@ class Solution:
                     adj[j].append(i)
         if end_idx == -1:
             return -1
-        
+
         q = [i for i, s in enumerate(bank) if diffOne(start, s)]
         visited = set(q)
         step = 1

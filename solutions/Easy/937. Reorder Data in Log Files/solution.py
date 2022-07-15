@@ -3,5 +3,6 @@ class Solution:
         def trans(log: str) -> tuple:
             a, b = log.split(" ", 1)
             return (0, b, a) if b[0].isalpha() else (1,)
+
         logs.sort(key=trans)
         return logs

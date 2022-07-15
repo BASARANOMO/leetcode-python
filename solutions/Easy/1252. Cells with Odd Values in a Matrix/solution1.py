@@ -7,4 +7,3 @@ class Solution:
             for row in mat:
                 row[y] += 1
         return sum(x % 2 for row in mat for x in row)
-

@@ -41,10 +41,10 @@ class Solution:
                 if j == -1:
                     return False
                 tagname = code[i + 1 : j]
-                if not 1 <= len(tagname) <= 9 or not all(ch.isupper() for ch in tagname):
+                if not 1 <= len(tagname) <= 9 or not all(
+                    ch.isupper() for ch in tagname
+                ):
                     return False
                 tags_stk.append(tagname)
                 i = j + 1
         return not tags_stk
-
-                

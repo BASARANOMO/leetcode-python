@@ -1,5 +1,4 @@
 class Trie:
-
     def __init__(self):
         self.children = [None] * 26
         self.as_prefix = 0
@@ -45,7 +44,6 @@ class Trie:
                 node = node.children[ord_char]
                 node.as_prefix -= 1
         node.as_word -= 1
-
 
 
 # Your Trie object will be instantiated and called as such:
