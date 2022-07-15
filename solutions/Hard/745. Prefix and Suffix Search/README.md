@@ -1,6 +1,6 @@
 # 745. Prefix and Suffix Search
 
-## Solution
+## Solution1
 
 Trie
 
@@ -11,3 +11,7 @@ Time complexity of `f()`: `O(max(p, s))` where `p` and `s` is the length of `pre
 Space complexity of `__init__()`:: `O(sum_{i=0}^{n-1} (w_i)^2)`
 
 Space complexity of `f()`:: `O(1)`
+
+## Solution2
+
+Two trie
