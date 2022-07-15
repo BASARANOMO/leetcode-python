@@ -15,3 +15,13 @@ Space complexity of `f()`:: `O(1)`
 ## Solution2
 
 Two trie
+
+## Solution3
+
+Hash table + brute force
+
+Time complexity of `__init__()`: `O(sum_{i=0}^{n-1} (w_i)^3)`
+
+Time complexity of `f()`: `O(p + s)`
+
+Space complexity of `__init__()`:: `O(sum_{i=0}^{n-1} (w_i)^3)`
