@@ -25,6 +25,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [508. Most Frequent Subtree Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/508.%20Most%20Frequent%20Subtree%20Sum)
 
+### Divide and conquer
+
+[558. Logical OR of Two Binary Grids Represented as Quad-Trees](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/558.%20Logical%20OR%20of%20Two%20Binary%20Grids%20Represented%20as%20Quad-Trees)
+
 ### Dynamic programming
 
 [62. Unique Paths](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/62.%20Unique%20Paths)
