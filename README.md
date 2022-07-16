@@ -73,6 +73,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Simulation
 
+[346. Moving Average from Data Stream](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/346.%20Moving%20Average%20from%20Data%20Stream)
+
 [498. Diagonal Traverse](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/498.%20Diagonal%20Traverse)
 
 [735. Asteroid Collision](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/735.%20Asteroid%20Collision)
