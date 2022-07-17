@@ -45,6 +45,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [676. Implement Magic Dictionary](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/676.%20Implement%20Magic%20Dictionary)
 
+### Graph
+
+[565. Array Nesting](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/565.%20Array%20Nesting)
+
 ### Greedy
 
 [280. Wiggle Sort](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/280.%20Wiggle%20Sort)
@@ -76,6 +80,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [346. Moving Average from Data Stream](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/346.%20Moving%20Average%20from%20Data%20Stream)
 
 [498. Diagonal Traverse](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/498.%20Diagonal%20Traverse)
+
+[565. Array Nesting](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/565.%20Array%20Nesting)
 
 [735. Asteroid Collision](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/735.%20Asteroid%20Collision)
 
