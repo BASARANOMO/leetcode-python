@@ -27,6 +27,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [508. Most Frequent Subtree Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/508.%20Most%20Frequent%20Subtree%20Sum)
 
+[987. Vertical Order Traversal of a Binary Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)
+
 ### Divide and conquer
 
 [558. Logical OR of Two Binary Grids Represented as Quad-Trees](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/558.%20Logical%20OR%20of%20Two%20Binary%20Grids%20Represented%20as%20Quad-Trees)
@@ -105,13 +107,15 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [2000. Reverse Prefix of Word](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/2000.%20Reverse%20Prefix%20of%20Word)
 
-### Sort
+### Sorting
 
 [280. Wiggle Sort](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/280.%20Wiggle%20Sort)
 
 [532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
 
 [937. Reorder Data in Log Files](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/937.%20Reorder%20Data%20in%20Log%20Files)
+
+[987. Vertical Order Traversal of a Binary Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)
 
 [1051. Height Checker](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1051.%20Height%20Checker)
 
