@@ -25,18 +25,18 @@ class Solution:
                                     elif isInfected[nx][ny] == 0:
                                         firewall += 1
                                         neighbor.add((nx, ny))
-                        
+
                         neighbors.append(neighbor)
                         firewalls.append(firewall)
-            
+
             if not neighbors:
                 break
-            
+
             idx = 0
             for i in range(1, len(neighbors)):
                 if len(neighbors[i]) > len(neighbors[idx]):
-                    idx = i # find the most threatening region
-            
+                    idx = i  # find the most threatening region
+
             # build firewalls
             ans += firewalls[idx]
             for i in range(m):
@@ -46,13 +46,13 @@ class Solution:
                             isInfected[i][j] = 1
                         else:
                             isInfected[i][j] = 2
-            
+
             # spread the virus
             for i, neighbor in enumerate(neighbors):
                 if i != idx:
                     for x, y in neighbor:
                         isInfected[x][y] = 1
-            
+
             if len(neighbors) == 1:
                 break
             # only one contaminated region and firewalls are built

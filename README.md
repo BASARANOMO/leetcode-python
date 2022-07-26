@@ -77,6 +77,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [933. Number of Recent Calls](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/933.%20Number%20of%20Recent%20Calls)
 
+### Recursion
+
+[814. Binary Tree Pruning](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/814.%20Binary%20Tree%20Pruning)
+
 ### Simulation
 
 [346. Moving Average from Data Stream](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/346.%20Moving%20Average%20from%20Data%20Stream)
