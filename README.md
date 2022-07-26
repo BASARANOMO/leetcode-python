@@ -13,6 +13,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### BFS
 
+[[100. Same Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/100.%20Same%20Tree)]
+
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
 [433. Minimum Genetic Mutation](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/433.%20Minimum%20Genetic%20Mutation)
@@ -20,6 +22,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [749. Contain Virus](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/749.%20Contain%20Virus)
 
 ### DFS
+
+[100. Same Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/100.%20Same%20Tree)
 
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
