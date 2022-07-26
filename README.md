@@ -15,6 +15,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [[100. Same Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/100.%20Same%20Tree)]
 
+[112. Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy112.%20Path%20Sum)
+
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
 [433. Minimum Genetic Mutation](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/433.%20Minimum%20Genetic%20Mutation)
@@ -25,11 +27,15 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [100. Same Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/100.%20Same%20Tree)
 
+[112. Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy112.%20Path%20Sum)
+
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
 
 [508. Most Frequent Subtree Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/508.%20Most%20Frequent%20Subtree%20Sum)
+
+[814. Binary Tree Pruning](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/814.%20Binary%20Tree%20Pruning)
 
 [987. Vertical Order Traversal of a Binary Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)
 
@@ -82,10 +88,6 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Queue
 
 [933. Number of Recent Calls](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/933.%20Number%20of%20Recent%20Calls)
-
-### Recursion
-
-[814. Binary Tree Pruning](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/814.%20Binary%20Tree%20Pruning)
 
 ### Simulation
 
