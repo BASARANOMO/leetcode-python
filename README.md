@@ -36,6 +36,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [113. Path Sum II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/113.%20Path%20Sum%20II)
 
+[437. Path Sum III](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/437.%20Path%20Sum%20III)
+
 [257. Binary Tree Paths](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/%20257.%20Binary%20Tree%20Paths)
 
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
@@ -91,6 +93,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Prefix sum
 
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
+
+[437. Path Sum III](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/437.%20Path%20Sum%20III)
 
 [926. Flip String to Monotone Increasing](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/926.%20Flip%20String%20to%20Monotone%20Increasing)
 
