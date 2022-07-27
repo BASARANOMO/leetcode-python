@@ -1,4 +1,5 @@
 # LeetCode Solutions in Python
+
 Provide all my solutions and explanations for LeetCode coding problems.
 
 ## Categories
@@ -15,9 +16,11 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [[100. Same Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/100.%20Same%20Tree)]
 
-[112. Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy112.%20Path%20Sum)
+[112. Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/112.%20Path%20Sum)
 
 [113. Path Sum II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/113.%20Path%20Sum%20II)
+
+[257. Binary Tree Paths](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/%20257.%20Binary%20Tree%20Paths)
 
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
@@ -29,9 +32,11 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [100. Same Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/100.%20Same%20Tree)
 
-[112. Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy112.%20Path%20Sum)
+[112. Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/112.%20Path%20Sum)
 
 [113. Path Sum II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/113.%20Path%20Sum%20II)
+
+[257. Binary Tree Paths](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/%20257.%20Binary%20Tree%20Paths)
 
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
