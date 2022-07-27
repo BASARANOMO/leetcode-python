@@ -11,7 +11,7 @@ class Solution:
         res = list()
         cur = list()
 
-        def dfs(root: TreeNode, curSum: int, targetSum: int) -> None:
+        def dfs(root: Optional[TreeNode], curSum: int, targetSum: int) -> None:
             if not root:
                 return
             if curSum == targetSum and not root.left and not root.right:

@@ -3,7 +3,7 @@ class Solution:
         ret = list()
         parent = collections.defaultdict(lambda: None)
 
-        def getPath(node: TreeNode):
+        def getPath(node: Optional[TreeNode]):
             tmp = list()
             while node:
                 tmp.append(node.val)

@@ -11,7 +11,7 @@ class Solution:
         prefix = collections.defaultdict(int)
         prefix[0] = 1
 
-        def dfs(root: TreeNode, curr: int) -> int:
+        def dfs(root: Optional[TreeNode], curr: int) -> int:
             if not root:
                 return 0
 

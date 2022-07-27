@@ -8,7 +8,7 @@
 
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
-        def dfs(root: TreeNode, targetSum: int) -> int:
+        def dfs(root: Optional[TreeNode], targetSum: int) -> int:
             if root is None:
                 return 0
             ret = 0
