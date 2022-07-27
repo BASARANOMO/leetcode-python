@@ -36,6 +36,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [113. Path Sum II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/113.%20Path%20Sum%20II)
 
+[124. Binary Tree Maximum Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
+
 [437. Path Sum III](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/437.%20Path%20Sum%20III)
 
 [257. Binary Tree Paths](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/%20257.%20Binary%20Tree%20Paths)
