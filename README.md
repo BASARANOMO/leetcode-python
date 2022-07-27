@@ -17,6 +17,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [112. Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy112.%20Path%20Sum)
 
+[113. Path Sum II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/113.%20Path%20Sum%20II)
+
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
 [433. Minimum Genetic Mutation](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/433.%20Minimum%20Genetic%20Mutation)
@@ -28,6 +30,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [100. Same Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/100.%20Same%20Tree)
 
 [112. Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy112.%20Path%20Sum)
+
+[113. Path Sum II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/113.%20Path%20Sum%20II)
 
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
