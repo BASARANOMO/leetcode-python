@@ -4,14 +4,14 @@
 
 DFS
 
-Time complexity: `O(n^2)`
+Time complexity: `O(n)`
 
-Space complexity: `O(n)`
+Space complexity: `O(h)`
 
 ## Solution3
 
 BFS
 
-Time complexity: `O(n^2)`
+Time complexity: `O(n)`
 
-Space complexity: `O(n)`
+Space complexity: `O(h)`
