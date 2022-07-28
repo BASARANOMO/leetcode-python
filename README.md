@@ -97,6 +97,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1260. Shift 2D Grid](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1260.%20Shift%202D%20Grid)
 
+[1331. Rank Transform of an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1331.%20Rank%20Transform%20of%20an%20Array)
+
 [1823. Find the Winner of the Circular Game](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)
 
 [2000. Reverse Prefix of Word](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/2000.%20Reverse%20Prefix%20of%20Word)
