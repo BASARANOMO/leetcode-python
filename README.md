@@ -1,4 +1,5 @@
 # LeetCode Solutions in Python
+
 Provide all my solutions and explanations for LeetCode coding problems.
 
 ## Categories
@@ -13,6 +14,14 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### BFS
 
+[[100. Same Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/100.%20Same%20Tree)]
+
+[112. Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/112.%20Path%20Sum)
+
+[113. Path Sum II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/113.%20Path%20Sum%20II)
+
+[257. Binary Tree Paths](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/%20257.%20Binary%20Tree%20Paths)
+
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
 [433. Minimum Genetic Mutation](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/433.%20Minimum%20Genetic%20Mutation)
@@ -21,11 +30,29 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### DFS
 
+[100. Same Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/100.%20Same%20Tree)
+
+[112. Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/112.%20Path%20Sum)
+
+[113. Path Sum II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/113.%20Path%20Sum%20II)
+
+[124. Binary Tree Maximum Path Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
+
+[437. Path Sum III](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/437.%20Path%20Sum%20III)
+
+[257. Binary Tree Paths](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/%20257.%20Binary%20Tree%20Paths)
+
 [417. Pacific Atlantic Water Flow](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/417.%20Pacific%20Atlantic%20Water%20Flow)
 
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
 
 [508. Most Frequent Subtree Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/508.%20Most%20Frequent%20Subtree%20Sum)
+
+[666. Path Sum IV](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/666.%20Path%20Sum%20IV)
+
+[814. Binary Tree Pruning](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/814.%20Binary%20Tree%20Pruning)
+
+[987. Vertical Order Traversal of a Binary Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)
 
 ### Divide and conquer
 
@@ -71,6 +98,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
 
+[437. Path Sum III](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/437.%20Path%20Sum%20III)
+
 [926. Flip String to Monotone Increasing](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/926.%20Flip%20String%20to%20Monotone%20Increasing)
 
 ### Queue
@@ -84,6 +113,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [498. Diagonal Traverse](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/498.%20Diagonal%20Traverse)
 
 [565. Array Nesting](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/565.%20Array%20Nesting)
+
+[592. Fraction Addition and Subtraction](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/592.%20Fraction%20Addition%20and%20Subtraction)
 
 [735. Asteroid Collision](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/735.%20Asteroid%20Collision)
 
@@ -103,13 +134,15 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [2000. Reverse Prefix of Word](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/2000.%20Reverse%20Prefix%20of%20Word)
 
-### Sort
+### Sorting
 
 [280. Wiggle Sort](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/280.%20Wiggle%20Sort)
 
 [532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
 
 [937. Reorder Data in Log Files](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/937.%20Reorder%20Data%20in%20Log%20Files)
+
+[987. Vertical Order Traversal of a Binary Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)
 
 [1051. Height Checker](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1051.%20Height%20Checker)
 
