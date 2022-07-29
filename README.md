@@ -28,6 +28,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [749. Contain Virus](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/749.%20Contain%20Virus)
 
+### Binary search (bisection)
+
+[729. My Calendar I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/729.%20My%20Calendar%20I)
+
 ### DFS
 
 [100. Same Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/100.%20Same%20Tree)
@@ -106,6 +110,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [933. Number of Recent Calls](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/933.%20Number%20of%20Recent%20Calls)
 
+### Segment tree
+
+[729. My Calendar I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/729.%20My%20Calendar%20I)
+
 ### Simulation
 
 [346. Moving Average from Data Stream](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/346.%20Moving%20Average%20from%20Data%20Stream)
@@ -155,6 +163,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Traversal
 
 [591. Tag Validator](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/591.%20Tag%20Validator)
+
+[729. My Calendar I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/729.%20My%20Calendar%20I)
 
 ### Tree
 
