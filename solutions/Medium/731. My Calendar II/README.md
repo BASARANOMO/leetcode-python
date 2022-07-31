@@ -1,4 +1,4 @@
-# 729. My Calendar I
+# 731. My Calendar II
 
 ## Solution1
 
@@ -8,12 +8,11 @@ Time complexity of `book()` method: `O(n)`
 
 Space complexity: `O(n)`
 
-
 ## Solution2
 
-Binary search (bisection), SortedDict
+Difference array
 
-Time complexity of `book()` method: `O(log n)`
+Time complexity of `book()` method: `O(n)`
 
 Space complexity: `O(n)`
 

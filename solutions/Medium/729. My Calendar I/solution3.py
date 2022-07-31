@@ -11,7 +11,7 @@ class MyCalendar:
             # [l, r) booked
             return True
         if start <= l and r <= end:
-            # [l, r) fully included in [start, end) but not all booked
+            # [l, r) fully contained in [start, end) but not all booked
             # part of [l, r) booked
             return idx in self.tree
         mid = (l + r) // 2
@@ -24,7 +24,7 @@ class MyCalendar:
             # no overlap
             return
         if start <= l and r <= end:
-            # [l, r) fully included in [start, end)
+            # [l, r) fully contained in [start, end)
             self.tree.add(idx)
             self.lazy.add(idx)
         else:
