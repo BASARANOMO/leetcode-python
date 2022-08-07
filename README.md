@@ -150,6 +150,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1331. Rank Transform of an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1331.%20Rank%20Transform%20of%20an%20Array)
 
+[1374. Generate a String With Characters That Have Odd Counts](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts)
+
 [1823. Find the Winner of the Circular Game](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)
 
 [2000. Reverse Prefix of Word](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/2000.%20Reverse%20Prefix%20of%20Word)
