@@ -28,6 +28,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [433. Minimum Genetic Mutation](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/433.%20Minimum%20Genetic%20Mutation)
 
+[623. Add One Row to Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/623.%20Add%20One%20Row%20to%20Tree)
+
 [749. Contain Virus](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/749.%20Contain%20Virus)
 
 [1161. Maximum Level Sum of a Binary Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
@@ -55,6 +57,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
 
 [508. Most Frequent Subtree Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/508.%20Most%20Frequent%20Subtree%20Sum)
+
+[623. Add One Row to Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/623.%20Add%20One%20Row%20to%20Tree)
 
 [666. Path Sum IV](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/666.%20Path%20Sum%20IV)
 
