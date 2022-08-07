@@ -108,6 +108,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [890. Find and Replace Pattern](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/890.%20Find%20and%20Replace%20Pattern)
 
+### List / linked list
+
+[622. Design Circular Queue](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/622.%20Design%20Circular%20Queue)
+
 ### Prefix sum
 
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
@@ -117,6 +121,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [926. Flip String to Monotone Increasing](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/926.%20Flip%20String%20to%20Monotone%20Increasing)
 
 ### Queue
+
+[622. Design Circular Queue](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/622.%20Design%20Circular%20Queue)
 
 [933. Number of Recent Calls](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/933.%20Number%20of%20Recent%20Calls)
 
