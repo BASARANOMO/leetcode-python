@@ -100,6 +100,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [942. DI String Match](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/942.%20DI%20String%20Match)
 
+[1403. Minimum Subsequence in Non-Increasing Order](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order)
+
 ### Hash table
 
 [508. Most Frequent Subtree Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/508.%20Most%20Frequent%20Subtree%20Sum)
@@ -159,6 +161,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [1331. Rank Transform of an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1331.%20Rank%20Transform%20of%20an%20Array)
 
 [1374. Generate a String With Characters That Have Odd Counts](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1374.%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts)
+
+[1403. Minimum Subsequence in Non-Increasing Order](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order)
 
 [1823. Find the Winner of the Circular Game](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)
 
