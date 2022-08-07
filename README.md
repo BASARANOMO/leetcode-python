@@ -148,6 +148,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [890. Find and Replace Pattern](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/890.%20Find%20and%20Replace%20Pattern)
 
+[899. Orderly Queue](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/899.%20Orderly%20Queue)
+
 [908. Smallest Range I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/908.%20Smallest%20Range%20I)
 
 [1252. Cells with Odd Values in a Matrix](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix)
@@ -167,6 +169,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [280. Wiggle Sort](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/280.%20Wiggle%20Sort)
 
 [532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
+
+[899. Orderly Queue](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/899.%20Orderly%20Queue)
 
 [937. Reorder Data in Log Files](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/937.%20Reorder%20Data%20in%20Log%20Files)
 
