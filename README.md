@@ -194,6 +194,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [591. Tag Validator](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/591.%20Tag%20Validator)
 
+[636. Exclusive Time of Functions](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/636.%20Exclusive%20Time%20of%20Functions)
+
 [1089. Duplicate Zeros](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1089.%20Duplicate%20Zeros)
 
 ### Traversal
