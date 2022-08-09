@@ -3,7 +3,7 @@ class Solution:
         ans = [0] * n
         stk = []
         for log in logs:
-            idx, tp, timestamp = log.split(':')
+            idx, tp, timestamp = log.split(":")
             idx, timestamp = int(idx), int(timestamp)
             if tp == "start":
                 if stk:

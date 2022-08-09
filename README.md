@@ -110,6 +110,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1403. Minimum Subsequence in Non-Increasing Order](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order)
 
+[1413. Minimum Value to Get Positive Step by Step Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)
+
 ### Hash table
 
 [508. Most Frequent Subtree Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/508.%20Most%20Frequent%20Subtree%20Sum)
