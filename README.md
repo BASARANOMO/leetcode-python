@@ -80,6 +80,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [558. Logical OR of Two Binary Grids Represented as Quad-Trees](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/558.%20Logical%20OR%20of%20Two%20Binary%20Grids%20Represented%20as%20Quad-Trees)
 
+[761. Special Binary String](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/761.%20Special%20Binary%20String)
+
 ### Dynamic programming
 
 [62. Unique Paths](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/62.%20Unique%20Paths)
