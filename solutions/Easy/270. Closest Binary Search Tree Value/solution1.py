@@ -5,9 +5,11 @@
 #         self.left = left
 #         self.right = right
 
+
 class Solution:
     def closestValue(self, root: Optional[TreeNode], target: float) -> int:
         ans = 0
+
         def dfs(root: Optional[TreeNode], target: float, min_remain: float) -> None:
             if not root:
                 return
@@ -20,5 +22,6 @@ class Solution:
                 dfs(root.right, target, min_remain)
             else:
                 dfs(root.left, target, min_remain)
+
         dfs(root, target, float("inf"))
         return ans

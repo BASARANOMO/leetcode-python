@@ -1,6 +1,7 @@
 # The isBadVersion API is already defined for you.
 # def isBadVersion(version: int) -> bool:
 
+
 class Solution:
     def firstBadVersion(self, n: int) -> int:
         def check(l: int, r: int) -> int:
@@ -11,4 +12,5 @@ class Solution:
                 return check(l, mid)
             else:
                 return check(mid + 1, r)
+
         return check(0, n)

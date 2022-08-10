@@ -3,14 +3,14 @@ class Solution:
         factor = val = 0
         i, n, sign = 0, len(equation), 1
         while i < n:
-            if equation[i] == '=':
+            if equation[i] == "=":
                 sign = -1
                 i += 1
                 continue
             s = sign
-            if equation[i] == '+':
+            if equation[i] == "+":
                 i += 1
-            elif equation[i] == '-':
+            elif equation[i] == "-":
                 s = -s
                 i += 1
             num, valid = 0, False
@@ -18,7 +18,7 @@ class Solution:
                 valid = True
                 num = num * 10 + int(equation[i])
                 i += 1
-            if i < n and equation[i] == 'x':
+            if i < n and equation[i] == "x":
                 factor += s * num if valid else s
                 i += 1
             else:
@@ -26,4 +26,3 @@ class Solution:
         if factor == 0:
             return "No solution" if val else "Infinite solutions"
         return f"x={-val // factor}"
-        
