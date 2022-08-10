@@ -138,6 +138,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [622. Design Circular Queue](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/622.%20Design%20Circular%20Queue)
 
+### Math
+
+[441. Arranging Coins](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/441.%20Arranging%20Coins)
+
 ### Prefix sum
 
 [427. Construct Quad Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/427.%20Construct%20Quad%20Tree)
