@@ -36,6 +36,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Binary search (bisection)
 
+[270. Closest Binary Search Tree Value](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/270.%20Closest%20Binary%20Search%20Tree%20Value)
+
+[278. First Bad Version](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/278.%20First%20Bad%20Version)
+
 [729. My Calendar I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/729.%20My%20Calendar%20I)
 
 ### Brute force
@@ -114,7 +118,11 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1413. Minimum Value to Get Positive Step by Step Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)
 
-### Hash table
+### Hash table / set
+
+[349. Intersection of Two Arrays](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/349.%20Intersection%20of%20Two%20Arrays)
+
+[350. Intersection of Two Arrays II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/350.%20Intersection%20of%20Two%20Arrays%20II)
 
 [508. Most Frequent Subtree Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/508.%20Most%20Frequent%20Subtree%20Sum)
 
@@ -156,6 +164,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [592. Fraction Addition and Subtraction](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/592.%20Fraction%20Addition%20and%20Subtraction)
 
+[640. Solve the Equation](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/640.%20Solve%20the%20Equation)
+
 [735. Asteroid Collision](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/735.%20Asteroid%20Collision)
 
 [749. Contain Virus](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/749.%20Contain%20Virus)
@@ -183,6 +193,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 ### Sorting
 
 [280. Wiggle Sort](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/280.%20Wiggle%20Sort)
+
+[349. Intersection of Two Arrays](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/349.%20Intersection%20of%20Two%20Arrays)
+
+[350. Intersection of Two Arrays II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/350.%20Intersection%20of%20Two%20Arrays%20II)
 
 [532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
 
@@ -232,6 +246,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [1804. Implement Trie II (Prefix Tree)](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1804.%20Implement%20Trie%20II%20(Prefix%20Tree))
 
 ### Two pointers
+
+[349. Intersection of Two Arrays](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/349.%20Intersection%20of%20Two%20Arrays)
+
+[350. Intersection of Two Arrays II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/350.%20Intersection%20of%20Two%20Arrays%20II)
 
 [532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
 
