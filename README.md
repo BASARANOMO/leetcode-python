@@ -40,6 +40,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [278. First Bad Version](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/278.%20First%20Bad%20Version)
 
+[374. Guess Number Higher or Lower](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/374.%20Guess%20Number%20Higher%20or%20Lower)
+
 [729. My Calendar I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/729.%20My%20Calendar%20I)
 
 ### Brute force
