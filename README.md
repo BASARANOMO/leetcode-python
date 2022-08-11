@@ -265,6 +265,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [350. Intersection of Two Arrays II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/350.%20Intersection%20of%20Two%20Arrays%20II)
 
+[392. Is Subsequence](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/392.%20Is%20Subsequence)
+
 [532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
 
 [708. Insert into a Sorted Circular Linked List](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/708.%20Insert%20into%20a%20Sorted%20Circular%20Linked%20List)
