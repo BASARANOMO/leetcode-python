@@ -164,6 +164,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Simulation
 
+[246. Strobogrammatic Number](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/246.%20Strobogrammatic%20Number)
+
 [346. Moving Average from Data Stream](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/346.%20Moving%20Average%20from%20Data%20Stream)
 
 [498. Diagonal Traverse](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/498.%20Diagonal%20Traverse)
@@ -256,6 +258,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [1804. Implement Trie II (Prefix Tree)](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1804.%20Implement%20Trie%20II%20(Prefix%20Tree))
 
 ### Two pointers
+
+[246. Strobogrammatic Number](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/246.%20Strobogrammatic%20Number)
 
 [349. Intersection of Two Arrays](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/349.%20Intersection%20of%20Two%20Arrays)
 
