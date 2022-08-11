@@ -224,6 +224,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1089. Duplicate Zeros](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1089.%20Duplicate%20Zeros)
 
+[1417. Reformat The String](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1417.%20Reformat%20The%20String)
+
 ### Traversal
 
 [591. Tag Validator](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/591.%20Tag%20Validator)
@@ -268,3 +270,5 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [942. DI String Match](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/942.%20DI%20String%20Match)
 
 [1089. Duplicate Zeros](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1089.%20Duplicate%20Zeros)
+
+[1417. Reformat The String](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1417.%20Reformat%20The%20String)
