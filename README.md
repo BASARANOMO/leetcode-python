@@ -134,6 +134,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
 
+[768. Max Chunks To Make Sorted II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/768.%20Max%20Chunks%20To%20Make%20Sorted%20II)
+
 [890. Find and Replace Pattern](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/890.%20Find%20and%20Replace%20Pattern)
 
 ### List / linked list
@@ -212,6 +214,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
 
+[768. Max Chunks To Make Sorted II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/768.%20Max%20Chunks%20To%20Make%20Sorted%20II)
+
 [899. Orderly Queue](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/899.%20Orderly%20Queue)
 
 [937. Reorder Data in Log Files](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/937.%20Reorder%20Data%20in%20Log%20Files)
@@ -229,6 +233,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [1089. Duplicate Zeros](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1089.%20Duplicate%20Zeros)
 
 [1417. Reformat The String](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1417.%20Reformat%20The%20String)
+
+#### Monotone stack
+
+[768. Max Chunks To Make Sorted II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/768.%20Max%20Chunks%20To%20Make%20Sorted%20II)
 
 ### Traversal
 
