@@ -48,6 +48,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Brute force
 
+[769. Max Chunks To Make Sorted](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/769.%20Max%20Chunks%20To%20Make%20Sorted)
+
 [1408. String Matching in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1408.%20String%20Matching%20in%20an%20Array)
 
 ### DFS
