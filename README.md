@@ -242,6 +242,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [768. Max Chunks To Make Sorted II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/768.%20Max%20Chunks%20To%20Make%20Sorted%20II)
 
+[1081. Smallest Subsequence of Distinct Characters](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters)
+
 [1475. Final Prices With a Special Discount in a Shop](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop)
 
 ### Traversal
