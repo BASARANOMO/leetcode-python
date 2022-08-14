@@ -246,6 +246,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [731. My Calendar II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/731.%20My%20Calendar%20II)
 
+[1422. Maximum Score After Splitting a String](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1422.%20Maximum%20Score%20After%20Splitting%20a%20String)
+
 ### Tree
 
 #### Binary search tree
