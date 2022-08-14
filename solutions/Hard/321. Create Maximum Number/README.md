@@ -4,6 +4,6 @@
 
 Monotone stack
 
-Time complexity: `O(k^2 * (m + n))`
+Time complexity: `O(k * (m + n + k^2))`
 
 Space complexity: `O(max(m, n, k))`
