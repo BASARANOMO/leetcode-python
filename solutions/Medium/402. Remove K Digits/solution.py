@@ -13,4 +13,4 @@ class Solution:
             mntn_stk.append(val)
         if k > 0:
             mntn_stk = mntn_stk[:-k]
-        return "".join(mntn_stk).lstrip('0') or "0"
+        return "".join(mntn_stk).lstrip("0") or "0"
