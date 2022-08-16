@@ -140,9 +140,11 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [890. Find and Replace Pattern](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/890.%20Find%20and%20Replace%20Pattern)
 
-### List / linked list
+### List / linked list / doubly linked list
 
 [2. Add Two Numbers](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/2.%20Add%20Two%20Numbers)
+
+[146. LRU Cache](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/146.%20LRU%20Cache)
 
 [622. Design Circular Queue](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/622.%20Design%20Circular%20Queue)
 
