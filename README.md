@@ -202,6 +202,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1403. Minimum Subsequence in Non-Increasing Order](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order)
 
+[1656. Design an Ordered Stream](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1656.%20Design%20an%20Ordered%20Stream)
+
 [1823. Find the Winner of the Circular Game](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)
 
 [2000. Reverse Prefix of Word](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/2000.%20Reverse%20Prefix%20of%20Word)
