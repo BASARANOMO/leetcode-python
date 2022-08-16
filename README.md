@@ -140,6 +140,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### List / linked list
 
+[2. Add Two Numbers](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/2.%20Add%20Two%20Numbers)
+
 [622. Design Circular Queue](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/622.%20Design%20Circular%20Queue)
 
 [641. Design Circular Deque](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/641.%20Design%20Circular%20Deque)
