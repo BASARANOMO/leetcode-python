@@ -48,6 +48,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [729. My Calendar I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/729.%20My%20Calendar%20I)
 
+### Bitwise operation
+
+[136. Single Number](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/136.%20Single%20Number)
+
 ### Brute force
 
 [769. Max Chunks To Make Sorted](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/769.%20Max%20Chunks%20To%20Make%20Sorted)
