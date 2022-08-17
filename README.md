@@ -34,6 +34,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1161. Maximum Level Sum of a Binary Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
 
+[1302. Deepest Leaves Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1302.%20Deepest%20Leaves%20Sum)
+
 ### Binary search (bisection)
 
 [270. Closest Binary Search Tree Value](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/270.%20Closest%20Binary%20Search%20Tree%20Value)
@@ -81,6 +83,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [987. Vertical Order Traversal of a Binary Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)
 
 [1161. Maximum Level Sum of a Binary Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree)
+
+[1302. Deepest Leaves Sum](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1302.%20Deepest%20Leaves%20Sum)
 
 ### Difference array
 
