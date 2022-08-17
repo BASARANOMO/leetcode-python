@@ -180,6 +180,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 ### Simulation
 
+[67. Add Binary](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/67.%20Add%20Binary)
+
 [246. Strobogrammatic Number](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/246.%20Strobogrammatic%20Number)
 
 [346. Moving Average from Data Stream](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/346.%20Moving%20Average%20from%20Data%20Stream)
