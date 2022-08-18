@@ -150,6 +150,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [890. Find and Replace Pattern](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/890.%20Find%20and%20Replace%20Pattern)
 
+[1224. Maximum Equal Frequency](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/1224.%20Maximum%20Equal%20Frequency)
+
 ### List / linked list / doubly linked list
 
 [2. Add Two Numbers](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/2.%20Add%20Two%20Numbers)
