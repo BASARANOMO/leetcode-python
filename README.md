@@ -60,7 +60,9 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1408. String Matching in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1408.%20String%20Matching%20in%20an%20Array)
 
-### DFS
+### DFS / backtracking
+
+[93. Restore IP Addresses](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/93.%20Restore%20IP%20Addresses)
 
 [100. Same Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/100.%20Same%20Tree)
 
