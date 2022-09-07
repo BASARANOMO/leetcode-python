@@ -84,6 +84,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [623. Add One Row to Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/623.%20Add%20One%20Row%20to%20Tree)
 
+[652. Find Duplicate Subtrees](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/652.%20Find%20Duplicate%20Subtrees)
+
 [666. Path Sum IV](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/666.%20Path%20Sum%20IV)
 
 [814. Binary Tree Pruning](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/814.%20Binary%20Tree%20Pruning)
