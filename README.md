@@ -228,6 +228,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [1592. Rearrange Spaces Between Words](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1592.%20Rearrange%20Spaces%20Between%20Words)
 
+[1608. Special Array With X Elements Greater Than or Equal X](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
+
 [1656. Design an Ordered Stream](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1656.%20Design%20an%20Ordered%20Stream)
 
 [1823. Find the Winner of the Circular Game](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game)
@@ -253,6 +255,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [987. Vertical Order Traversal of a Binary Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)
 
 [1051. Height Checker](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1051.%20Height%20Checker)
+
+[1608. Special Array With X Elements Greater Than or Equal X](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
 
 ### Stack
 
