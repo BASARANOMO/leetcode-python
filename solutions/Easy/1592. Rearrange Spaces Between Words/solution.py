@@ -5,5 +5,4 @@ class Solution:
         if len(words) == 1:
             return words[0] + " " * space_cnt
         per_space, rest_space = divmod(space_cnt, len(words) - 1)
-        return (' ' * per_space).join(words) + ' ' * rest_space
-        
+        return (" " * per_space).join(words) + " " * rest_space

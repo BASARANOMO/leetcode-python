@@ -88,6 +88,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [666. Path Sum IV](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/666.%20Path%20Sum%20IV)
 
+[669. Trim a Binary Search Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/669.%20Trim%20a%20Binary%20Search%20Tree)
+
 [814. Binary Tree Pruning](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/814.%20Binary%20Tree%20Pruning)
 
 [987. Vertical Order Traversal of a Binary Tree](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)

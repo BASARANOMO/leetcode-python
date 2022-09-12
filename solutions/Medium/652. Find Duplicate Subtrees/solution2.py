@@ -5,7 +5,9 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def findDuplicateSubtrees(self, root: Optional[TreeNode]) -> List[Optional[TreeNode]]:
+    def findDuplicateSubtrees(
+        self, root: Optional[TreeNode]
+    ) -> List[Optional[TreeNode]]:
         def dfs(node: Optional[TreeNode]) -> int:
             if not node:
                 return 0
@@ -21,10 +23,9 @@ class Solution:
                 seen[tri] = (node, idx)
                 return idx
 
-        idx = 0        
+        idx = 0
         seen = dict()
         repeat = set()
 
         dfs(root)
         return list(repeat)
-        

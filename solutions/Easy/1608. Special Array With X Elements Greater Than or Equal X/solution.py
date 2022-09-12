@@ -8,4 +8,3 @@ class Solution:
                 return n - i
             pre = num
         return -1
-        
