@@ -132,6 +132,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [280. Wiggle Sort](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/280.%20Wiggle%20Sort)
 
+[670. Maximum Swap](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/670.%20Maximum%20Swap)
+
 [910. Smallest Range II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/910.%20Smallest%20Range%20II)
 
 [942. DI String Match](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/942.%20DI%20String%20Match)
