@@ -190,6 +190,10 @@ Provide all my solutions and explanations for LeetCode coding problems.
 
 [933. Number of Recent Calls](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/933.%20Number%20of%20Recent%20Calls)
 
+#### Priority queue / heap
+
+[358. Rearrange String k Distance Apart](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/358.%20Rearrange%20String%20k%20Distance%20Apart)
+
 ### Segment tree
 
 [729. My Calendar I](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/729.%20My%20Calendar%20I)
@@ -251,6 +255,8 @@ Provide all my solutions and explanations for LeetCode coding problems.
 [349. Intersection of Two Arrays](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/349.%20Intersection%20of%20Two%20Arrays)
 
 [350. Intersection of Two Arrays II](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Easy/350.%20Intersection%20of%20Two%20Arrays%20II)
+
+[358. Rearrange String k Distance Apart](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Hard/358.%20Rearrange%20String%20k%20Distance%20Apart)
 
 [532. K-diff Pairs in an Array](https://github.com/BASARANOMO/leetcode-python/tree/main/solutions/Medium/532.%20K-diff%20Pairs%20in%20an%20Array)
 
